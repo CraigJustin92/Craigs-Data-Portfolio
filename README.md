@@ -88,5 +88,5 @@ Explore the interactive Tableau dashboards to understand how these insights can 
 [link to dataset](https://www.kaggle.com/datasets/mustafakeser4/looker-ecommerce-bigquery-dataset)
 
 ![Return Rate Overtime](https://github.com/CraigJustin92/Craigs-Data-Portfolio/blob/main/images/returns%20management%201.png?raw=true)
-![3 Categories with Highest Return Rates](https://github.com/CraigJustin92/Craigs-Data-Portfolio/blob/main/images/returns%20management%202.png?raw=true))
+![3 Categories with Highest Return Rates](https://github.com/CraigJustin92/Craigs-Data-Portfolio/blob/main/images/returns%20management%202.png?raw=true)
 
