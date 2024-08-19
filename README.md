@@ -31,6 +31,7 @@ Develop predictive models to identify movies likely to be fast-added (within the
 - **Feature Engineering:** Further explore interaction features and seasonal analysis to refine predictions.
 - **Metric Tailoring:** Adjust model parameters based on Netflix’s strategic priorities for improved alignment with content acquisition goals.
 
+![Random Forest Classifier: Top 10 Feature Importances](images/netflix feature importance.png)
 
 # [Project 2: Uber Fare Prediction Model](https://github.com/CraigJustin92/Uber-Fare-Prediction-Model)
 
