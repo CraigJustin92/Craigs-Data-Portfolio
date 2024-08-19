@@ -33,6 +33,8 @@ Develop predictive models to identify movies likely to be fast-added (within the
 
 ![Random Forest Classifier: Top 10 Feature Importances](https://github.com/CraigJustin92/Craigs-Data-Portfolio/blob/main/images/netflix%20feature%20importance.png?raw=true)
 
+___
+
 # [Project 2: Uber Fare Prediction Model](https://github.com/CraigJustin92/Uber-Fare-Prediction-Model)
 
 **Objective:**  
