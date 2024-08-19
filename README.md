@@ -4,25 +4,33 @@ A collection of my data projects showcasing skills in data processing, visualiza
 # [Project 1: Netflix Content Prediction](https://github.com/CraigJustin92/Netflix_Content_Prediction)
 
 **Objective:**  
-Unlock the secrets behind Netflix’s content acquisition strategy by predicting which movies are likely to be fast-added (within the first year of release) based on various features.
+Develop predictive models to identify movies likely to be fast-added (within the first year) to Netflix, aiming to enhance content acquisition strategies and maximize viewer engagement.
 
 **Approach:**
-- **Data Exploration:** Delved into the dataset to uncover trends and patterns in movie features such as genre, release year, and duration.
-- **Data Cleaning:** Ensured data integrity by filtering out invalid coordinates and handling missing values.
-- **Feature Engineering:** Calculated distances between pickup and dropoff locations and added a `season` feature to capture seasonal trends.
-- **Predictive Modeling:** Developed and evaluated models using machine learning algorithms to identify key predictors of fast-added movies.
-- **Hypothesis Testing:** Applied chi-squared tests to explore relationships between categorical variables and movie success.
+- **Data Exploration:** Analyzed features such as genre, release year, duration, etc., to identify characteristics of fast-added movies.
+- **Data Cleaning:** Addressed missing values, corrected inconsistencies, and removed duplicates.
+- **Feature Engineering:** Created new features and selected relevant ones for modeling.
+- **Model Development:** Applied decision trees, random forest, and XGBoost to predict fast-added movies.
+
+**Summary of Model Results:**
+- **Decision Trees:** Achieved a precision of 70.7%, recall of 75.3%, F1-score of 72.9%, and accuracy of 69%. Removing the `movie_duration` feature improved recall to 82.1% and F1-score to 73.6%.
+- **Random Forest:** Delivered an AUC of 77.1%, precision of 72.3%, recall of 78.1%, F1-score of 75.1%, and accuracy of 72.3%. This model outperformed the decision tree model.
+- **Extreme Gradient Boosting (XGBoost):** Reached an AUC of 77.0%, precision of 72.1%, recall of 76.9%, F1-score of 74.4%, and accuracy of 71.2%. While XGBoost performed better than the decision tree, the random forest model surpassed it in all metrics.
 
 **Insights & Findings:**
-- Discovered strong predictors of fast-added movies that can drive strategic content decisions.
-- Visualized relationships between features to highlight key trends and patterns in content acquisition.
+- **Mature-Themed Content Demand:** The strong preference for TV-MA or R-rated content suggests a need for more mature-themed programming to boost viewer engagement and retention.
+- **Model Performance:** The random forest model provided the best overall performance, indicating it as the preferred choice for predicting fast-added content.
+- **Feature Impact:** The removal of certain features (e.g., `movie_duration`) can significantly impact model performance metrics.
 
 **Recommendations:**
-- Explore additional features like viewer ratings and historical content performance to refine predictions.
-- Experiment with advanced modeling techniques to enhance prediction accuracy.
-- Continuously update the model with new data to adapt to changing content trends.
+- **Data Collection:** Enhance data collection on viewer engagement, social media trends, regional preferences, production quality, awards, and marketing impact.
+- **Feature Engineering:** Develop interaction features between genres and countries, and consider seasonal trends for more accurate predictions.
+- **Metric Tailoring:** Adjust model parameters based on Netflix’s strategic priorities for improved alignment with content acquisition goals.
 
-Dive into the details to see how these insights can transform Netflix's content strategy and drive its next big hits!
+**Next Steps:**
+- **Feature Engineering:** Further explore interaction features and seasonal analysis to refine predictions.
+- **Metric Tailoring:** Adjust model parameters based on Netflix’s strategic priorities for improved alignment with content acquisition goals.
+
 
 # [Project 2: Uber Fare Prediction Model](https://github.com/CraigJustin92/Uber-Fare-Prediction-Model)
 
