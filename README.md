@@ -59,9 +59,9 @@ Develop a predictive model to estimate Uber fare amounts based on features such 
 
 Explore how these findings can lead to more accurate fare predictions and improve the overall Uber ride pricing strategy!
 
-![Distance vs Fare Amount]([https://github.com/CraigJustin92/Craigs-Data-Portfolio/blob/main/images/netflix%20feature%20importance.png?raw=true](https://github.com/CraigJustin92/Craigs-Data-Portfolio/blob/main/images/uber%20distance%20vs%20fare.png?raw=true))
+![Distance vs Fare Amount](https://github.com/CraigJustin92/Craigs-Data-Portfolio/blob/main/images/uber%20distance%20vs%20fare.png?raw=true)
 
-![Heatmap of Average Fare Amount by Day and Season]([[https://github.com/CraigJustin92/Craigs-Data-Portfolio/blob/main/images/netflix%20feature%20importance.png?raw=true](https://github.com/CraigJustin92/Craigs-Data-Portfolio/blob/main/images/uber%20distance%20vs%20fare.png?raw=true)](https://github.com/CraigJustin92/Craigs-Data-Portfolio/blob/main/images/uber%20fare%20by%20day%20and%20season.png?raw=true))
+![Heatmap of Average Fare Amount by Day and Season](https://github.com/CraigJustin92/Craigs-Data-Portfolio/blob/main/images/uber%20fare%20by%20day%20and%20season.png?raw=true)
 
 # [Project 3: Insights and Strategies for Improved Returns Management](https://public.tableau.com/shared/HSJ99SQZZ?:display_count=n&:origin=viz_share_link)
 
@@ -87,6 +87,6 @@ Analyze returns data to identify trends and improve returns management strategie
 Explore the interactive Tableau dashboards to understand how these insights can enhance returns management and improve overall operational efficiency.
 [link to dataset](https://www.kaggle.com/datasets/mustafakeser4/looker-ecommerce-bigquery-dataset)
 
-![Return Rate Overtime](https://github.com/CraigJustin92/Craigs-Data-Portfolio/blob/main/images/netflix%20feature%20importance.png?raw=true)
-![3 Categories with Highest Return Rates]([https://github.com/CraigJustin92/Craigs-Data-Portfolio/blob/main/images/netflix%20feature%20importance.png?raw=true](https://github.com/CraigJustin92/Craigs-Data-Portfolio/blob/main/images/returns%20management%202.png?raw=true))
+![Return Rate Overtime](https://github.com/CraigJustin92/Craigs-Data-Portfolio/blob/main/images/returns%20management%202.png?raw=true)
+![3 Categories with Highest Return Rates](https://github.com/CraigJustin92/Craigs-Data-Portfolio/blob/main/images/returns%20management%202.png?raw=true))
 
