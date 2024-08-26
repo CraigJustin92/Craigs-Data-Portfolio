@@ -65,7 +65,7 @@ Explore how these findings can lead to more accurate fare predictions and improv
 ![Heatmap of Average Fare Amount by Day and Season](https://github.com/CraigJustin92/Craigs-Data-Portfolio/blob/main/images/uber%20fare%20by%20day%20and%20season.png?raw=true)
 ___
 
-# [Project 3: Insights and Strategies for Improved Returns Management](https://public.tableau.com/shared/HSJ99SQZZ?:display_count=n&:origin=viz_share_link)
+# [Project 3: Insights and Strategies for Improved Returns Management](https://public.tableau.com/views/UncoveringtheImpactonSalesandProfitability/AreYourDiscountsHurtingYourProfitsUncoveringtheImpactonSalesandProfitability?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 **Objective:**  
 Analyze returns data to identify trends and improve returns management strategies for an eCommerce company, focusing on return rates, the number of returns, and sales data.
